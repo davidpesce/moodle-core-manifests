@@ -1,0 +1,14 @@
+{
+ "updated_at": "2026-06-12T22:34:47Z",
+ "branches": [
+  "MOODLE_401_STABLE",
+  "MOODLE_402_STABLE",
+  "MOODLE_403_STABLE",
+  "MOODLE_404_STABLE",
+  "MOODLE_405_STABLE",
+  "MOODLE_500_STABLE",
+  "MOODLE_501_STABLE",
+  "MOODLE_502_STABLE"
+ ],
+ "format": "<git-blob-sha1>\\t<path>\\n, sorted by path (byte order)"
+}
