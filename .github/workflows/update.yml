@@ -1,0 +1,61 @@
+name: Update manifests
+
+on:
+  schedule:
+    # Mondays 05:20 UTC, after Moodle's weekly builds land.
+    - cron: '20 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      branches:
+        description: 'Restrict to specific branches (space-separated, e.g. "MOODLE_405_STABLE MOODLE_500_STABLE"). Empty = all.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-manifests
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore moodle.git clone cache
+        uses: actions/cache@v4
+        with:
+          path: moodle.git
+          key: moodle-git-${{ github.run_id }}
+          restore-keys: |
+            moodle-git-
+
+      - name: Clone or update moodle.git
+        run: |
+          if [ -d moodle.git ]; then
+            git -C moodle.git fetch --prune origin
+          else
+            git clone --bare https://github.com/moodle/moodle.git moodle.git
+          fi
+
+      - name: Generate manifests
+        run: |
+          python3 scripts/generate_manifests.py \
+            --repo moodle.git \
+            --out manifests \
+            ${{ inputs.branches && format('--branches {0}', inputs.branches) || '' }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "manifest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add manifests
+          if git diff --cached --quiet; then
+            echo "No new manifests."
+          else
+            git commit -m "Update manifests ($(date -u +%Y-%m-%d))"
+            git push
+          fi
