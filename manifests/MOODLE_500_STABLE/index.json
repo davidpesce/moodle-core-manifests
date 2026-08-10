@@ -1,570 +1,570 @@
 {
  "branch": "MOODLE_500_STABLE",
- "updated_at": "2026-08-03T06:33:31Z",
+ "updated_at": "2026-08-10T05:51:31Z",
  "builds": [
   {
    "version": "2025041400.00",
    "release": "5.0 (Build: 20250414)",
    "commit": "78e860178314c45441a21e0b99455400b8283d48",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.01",
    "release": "5.0+ (Build: 20250417)",
    "commit": "ba42149eb194c51f666b6866c3d805d9c4f45a41",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.02",
    "release": "5.0+ (Build: 20250424)",
    "commit": "5511a18ae50e1ebfab72c90c6cfe1a1e6b6c6797",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.03",
    "release": "5.0+ (Build: 20250502)",
    "commit": "69b36a36b4669b2c67a2822cc491194b2da3cedb",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.04",
    "release": "5.0+ (Build: 20250509)",
    "commit": "69991972434efecec3ae7e5130d27c9b28d65e49",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.05",
    "release": "5.0+ (Build: 20250516)",
    "commit": "328810e933f6d1656baa8a494666840190c36348",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.06",
    "release": "5.0+ (Build: 20250523)",
    "commit": "a52fbcced680f44f7ac41c25b8bf80a5bbe56fb3",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.07",
    "release": "5.0+ (Build: 20250530)",
    "commit": "1260cb24b837c999a012d5d0f7377497cdc67786",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.08",
    "release": "5.0+ (Build: 20250530)",
    "commit": "301ae93c4aa116f6c86af0f50c2d77939c0ba6a8",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.09",
    "release": "5.0+ (Build: 20250530)",
    "commit": "7db7444d53f2f8aadcf399d8ae56a5f6c1007bbc",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041400.10",
    "release": "5.0+ (Build: 20250605)",
    "commit": "5f0de664bd7972105d765a5499724b4da825eaa2",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.00",
    "release": "5.0.1 (Build: 20250609)",
    "commit": "ffb6475f6ade46492a02cfb17dda8e603c60f7ea",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.01",
    "release": "5.0.1+ (Build: 20250613)",
    "commit": "a46fde054af48b928872abeaea824df5fa4c40c0",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.02",
    "release": "5.0.1+ (Build: 20250620)",
    "commit": "46884140c3c3eff4445599c0113df8f9c043d0d9",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.03",
    "release": "5.0.1+ (Build: 20250629)",
    "commit": "3e6d669b342df54200f50513c02f0ac413f838aa",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.04",
    "release": "5.0.1+ (Build: 20250706)",
    "commit": "03659104489f00388d5e1d89ba82ed6f903163ad",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.05",
    "release": "5.0.1+ (Build: 20250711)",
    "commit": "61af040cd5fd12905c70b2ab852940e256d69ed0",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.06",
    "release": "5.0.1+ (Build: 20250718)",
    "commit": "d52b2568b0d4c32ff99a97431f31c1dd6ae228ed",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.07",
    "release": "5.0.1+ (Build: 20250725)",
    "commit": "5780da5481c177a8cd68865c6680b895709408a4",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.08",
    "release": "5.0.1+ (Build: 20250725)",
    "commit": "33fb09b447b4dfedb4a9907aef9dd14652d73eb8",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.09",
    "release": "5.0.1+ (Build: 20250731)",
    "commit": "34968cacf5145f4b7ca15aec7a6814f7a059d8cb",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.10",
    "release": "5.0.1+ (Build: 20250731)",
    "commit": "203f6bb20fa2d817d4c106c6aa3a53725d5f1528",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041401.11",
    "release": "5.0.1+ (Build: 20250807)",
    "commit": "1295393145e4d5b8477bbac945309b434c6d9837",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.00",
    "release": "5.0.2 (Build: 20250811)",
    "commit": "e27e1ed7bc33f9a7b1820c165133dd585d5c27db",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.01",
    "release": "5.0.2+ (Build: 20250815)",
    "commit": "60e348ff05b12f7f6de5a703b0111834c958ac9e",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.02",
    "release": "5.0.2+ (Build: 20250819)",
    "commit": "bb70c36beeb6538a3fca0ef1959159871a0d9a6a",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.03",
    "release": "5.0.2+ (Build: 20250822)",
    "commit": "3674a5854a2bddf27f0cf97cc109133373e316b2",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.04",
    "release": "5.0.2+ (Build: 20250826)",
    "commit": "5764f8ee38ffc7f3d64e9b4cf45a949f7aa632a2",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.05",
    "release": "5.0.2+ (Build: 20250829)",
    "commit": "3ca7c6bf323276ea044c65d2e7a93e3a8d2ae70b",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.06",
    "release": "5.0.2+ (Build: 20250902)",
    "commit": "4e5151db5f9d33a3fe09cf009840062ed9229b44",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.07",
    "release": "5.0.2+ (Build: 20250906)",
    "commit": "a2f7f13d7c77854d7b9b779609567cc3404e3dbe",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.08",
    "release": "5.0.2+ (Build: 20250909)",
    "commit": "5b1731077e2ba9b5e28df0e603926263ae6b805b",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.09",
    "release": "5.0.2+ (Build: 20250912)",
    "commit": "6bc92d4ba4ed87cc0de02a388b1a2fc29f894ce6",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.10",
    "release": "5.0.2+ (Build: 20250916)",
    "commit": "93aa0338015170ffbd0dbb108b66b4d8b3edd443",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.11",
    "release": "5.0.2+ (Build: 20250919)",
    "commit": "11db03e2aef6355eeafc55036cd5cdafccdb4732",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.12",
    "release": "5.0.2+ (Build: 20250919)",
    "commit": "0eee5e17ff176ed8731a05491ae9db4fabef7f98",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.13",
    "release": "5.0.2+ (Build: 20250923)",
    "commit": "089f43cfd892cea7c9943e8c184a44242d6405f4",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.14",
    "release": "5.0.2+ (Build: 20250926)",
    "commit": "237dfaa8681cdf243f24ca5a0175d32e10bd73cf",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041402.15",
    "release": "5.0.2+ (Build: 20251003)",
    "commit": "2800280c8f0eb67a622b41ffc475f70a48c4d422",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.00",
    "release": "5.0.3 (Build: 20251006)",
    "commit": "1b2d270397613a3889a24f59be0ee6d0292a7556",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.01",
    "release": "5.0.3+ (Build: 20251009)",
    "commit": "7abebfa8201595af6048d981c11e08b6f3ed6090",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.02",
    "release": "5.0.3+ (Build: 20251017)",
    "commit": "7927f8d0585aa7bf5305a16e0e12aa20df3cc6b5",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.03",
    "release": "5.0.3+ (Build: 20251024)",
    "commit": "1beae326aa73ab3309f9ced5aa49400529bb9d23",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.04",
    "release": "5.0.3+ (Build: 20251030)",
    "commit": "83165038644fca0ac7df5883eb831f4c30de1e9d",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.05",
    "release": "5.0.3+ (Build: 20251030)",
    "commit": "37c7760c9898a2180d766924ce93f11cbaf68ec6",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.06",
    "release": "5.0.3+ (Build: 20251107)",
    "commit": "7838e3f24776feeb1fc94769a95e0df554d340c9",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.07",
    "release": "5.0.3+ (Build: 20251113)",
    "commit": "e6593a6e73e71c771e12cc441678080d45572f3e",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.08",
    "release": "5.0.3+ (Build: 20251121)",
    "commit": "91febb5f8e03377fec87c4a2603dc355c2386652",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.09",
    "release": "5.0.3+ (Build: 20251127)",
    "commit": "299b17119145c4cb375ccca609af62ca8b913838",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.10",
    "release": "5.0.3+ (Build: 20251127)",
    "commit": "11d65e4c0b60f783b2caf4a12d775629494e8c0b",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.11",
    "release": "5.0.3+ (Build: 20251127)",
    "commit": "545f94bbbc32f4ed20e18a2661dfe0d1d55d3742",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041403.12",
    "release": "5.0.3+ (Build: 20251205)",
    "commit": "5a34bf72d6dbf7a423dad13e2428273049ca9d2b",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.00",
    "release": "5.0.4 (Build: 20251208)",
    "commit": "a5b3ac7e43c082e6cb24a6094810735a945ff32e",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.01",
    "release": "5.0.4+ (Build: 20251212)",
    "commit": "f878d036dd042d56cd7c5d79e94d6b75b311497f",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.02",
    "release": "5.0.4+ (Build: 20251212)",
    "commit": "08b7aafce2b185a9a9e9760b00ea12b620c40695",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.03",
    "release": "5.0.4+ (Build: 20251219)",
    "commit": "6e82b46a480826d1a85394d9e5087f7d82d1dd52",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.04",
    "release": "5.0.4+ (Build: 20251219)",
    "commit": "b81abb85785d29654c5b81068fc92b902364a9e1",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.05",
    "release": "5.0.4+ (Build: 20260109)",
    "commit": "9699514341e9e90f261e3d9121bd03bfab1e14aa",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.06",
    "release": "5.0.4+ (Build: 20260109)",
    "commit": "cf22cbe3712669984c901fab34be1fae28f12f3f",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.07",
    "release": "5.0.4+ (Build: 20260116)",
    "commit": "3d8e9b8444845d0b309207cc40fbd481939aadbf",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.08",
    "release": "5.0.4+ (Build: 20260126)",
    "commit": "94db3eae21522fc3131e8c5ff4e5fcc32ccdc024",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.09",
    "release": "5.0.4+ (Build: 20260130)",
    "commit": "59fd844136d7056172511b12178dba52a8fd3ca7",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.10",
    "release": "5.0.4+ (Build: 20260130)",
    "commit": "77637bfb261672d1b252537f64f19695d1923791",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041404.11",
    "release": "5.0.4+ (Build: 20260205)",
    "commit": "6dd7b7e49014f27b6b5f3d2b61e2cdb7e4a7a87e",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041405.00",
    "release": "5.0.5 (Build: 20260209)",
    "commit": "e1c3872f65bf261ecfe3cf7d171f98580f209089",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041405.01",
    "release": "5.0.5+ (Build: 20260210)",
    "commit": "55d43fe1378c83ebe3c1c22d98c2844e4c2e0f05",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.00",
    "release": "5.0.6 (Build: 20260216)",
    "commit": "e6505da61aacec7be353d9235b91e71f8d71afaf",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.01",
    "release": "5.0.6 (Build: 20260216)",
    "commit": "07dd973f4472aae80bdc7d580203c1f0a757426b",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.02",
    "release": "5.0.6+ (Build: 20260217)",
    "commit": "2f9c784b34d1e2da12cfa7b352dd752245f09067",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.03",
    "release": "5.0.6+ (Build: 20260220)",
    "commit": "15557a5fc2c33333c0e6bf1f418b540b58c0a75c",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.04",
    "release": "5.0.6+ (Build: 20260227)",
    "commit": "abfa0b8d728d056fe1ce0e224a48986aa7678904",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.05",
    "release": "5.0.6+ (Build: 20260227)",
    "commit": "af9d22136002aa5f4c593f45bc0366fecd192dc6",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.06",
    "release": "5.0.6+ (Build: 20260306)",
    "commit": "2baad2002f5385ca5a700a4cb58ab8603e7fa52a",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.07",
    "release": "5.0.6+ (Build: 20260306)",
    "commit": "416cda978faa2c24280c2065a50a2cccf57072f2",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.08",
    "release": "5.0.6+ (Build: 20260320)",
    "commit": "961d7cea4fd80a6f797c5fee056cad26367b79a6",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.09",
    "release": "5.0.6+ (Build: 20260327)",
    "commit": "71f415331614bed4e06e61eff796d93a18e019ea",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.10",
    "release": "5.0.6+ (Build: 20260327)",
    "commit": "d078e404e8f389e723366fa3940bf84a146d75cd",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.11",
    "release": "5.0.6+ (Build: 20260403)",
    "commit": "315b9220224df374a2c81b1c8c7ddd402088a1c3",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.12",
    "release": "5.0.6+ (Build: 20260410)",
    "commit": "564e076002c4b9da325c05c6805aefb286a5a072",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041406.13",
    "release": "5.0.6+ (Build: 20260415)",
    "commit": "39fd10c327befd4e8749555c0d4b0846a14241e1",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.00",
    "release": "5.0.7 (Build: 20260420)",
    "commit": "c37648634aef6d874e1a532d1fcc8778e7ae882a",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.01",
    "release": "5.0.7+ (Build: 20260427)",
    "commit": "ad13d9c1e25fa9f96a9cc0ed14b981d58d26c590",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.02",
    "release": "5.0.7+ (Build: 20260501)",
    "commit": "f890ddc5ffcbf24b02d7cd05a71a8bdd87d481e8",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.03",
    "release": "5.0.7+ (Build: 20260519)",
    "commit": "8e9398fdc3462c64256b75314b56537a52b5ebc1",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.04",
    "release": "5.0.7+ (Build: 20260525)",
    "commit": "66c9a60b5a0bfb7e34ac60e8f215232dcca921a9",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.05",
    "release": "5.0.7+ (Build: 20260525)",
    "commit": "05aeb0fb0ea254f03ee5dbce15732d0bc5aa9143",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041407.06",
    "release": "5.0.7+ (Build: 20260604)",
    "commit": "3e10ac6060874875a084e54a2e4c0510746317c8",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.00",
    "release": "5.0.8 (Build: 20260608)",
    "commit": "3087780dc4668773709ee064839a0ea2773cdf30",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.01",
    "release": "5.0.8+ (Build: 20260616)",
    "commit": "c5b243b9e694c3e6d7be8d44ee7614215af9d9e6",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.02",
    "release": "5.0.8+ (Build: 20260624)",
    "commit": "db0b37e81bfde449c50cbdacecb787f986bec74d",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.03",
    "release": "5.0.8+ (Build: 20260630)",
    "commit": "db24ae6ff188b608c0814c7efd3438d19c625f2c",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.04",
    "release": "5.0.8+ (Build: 20260708)",
    "commit": "5927f5fa74de79caacab474d35dc07f893166488",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.05",
    "release": "5.0.8+ (Build: 20260714)",
    "commit": "552d55764f1714218dc9092101ab04e6bafaf1ec",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   },
   {
    "version": "2025041408.06",
    "release": "5.0.8+ (Build: 20260722)",
    "commit": "fc1b95087ac93c9ae87f9ed67d810641eddc93dc",
-   "generated_at": "2026-08-03T06:33:31Z"
+   "generated_at": "2026-08-10T05:51:31Z"
   }
  ]
 }
