@@ -24,6 +24,10 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Always the live branch tip — a re-run would otherwise pin the
+          # SHA the original attempt ran against.
+          ref: main
 
       - name: Restore moodle.git clone cache
         uses: actions/cache@v4
@@ -36,7 +40,11 @@ jobs:
       - name: Clone or update moodle.git
         run: |
           if [ -d moodle.git ]; then
-            git -C moodle.git fetch --prune origin
+            # A bare clone has no remote.origin.fetch refspec, so a plain
+            # "git fetch origin" updates only FETCH_HEAD and the cached
+            # branch heads stay frozen. Map heads and tags explicitly.
+            git -C moodle.git fetch --prune origin \
+              '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
           else
             git clone --bare https://github.com/moodle/moodle.git moodle.git
           fi
@@ -57,5 +65,6 @@ jobs:
             echo "No new manifests."
           else
             git commit -m "Update manifests ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
             git push
           fi
