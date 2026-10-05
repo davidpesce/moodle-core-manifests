@@ -1,0 +1,12 @@
+{
+ "branch": "MOODLE_503_STABLE",
+ "updated_at": "2026-10-05T05:46:05Z",
+ "builds": [
+  {
+   "version": "2026100500.00",
+   "release": "5.3 (Build: 20261005)",
+   "commit": "42622298fe06f9626d988d60b2bf589bd8f850e8",
+   "generated_at": "2026-10-05T05:46:05Z"
+  }
+ ]
+}
