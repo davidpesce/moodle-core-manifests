@@ -1,24 +1,48 @@
 {
  "branch": "MOODLE_503_STABLE",
- "updated_at": "2026-10-19T05:33:59Z",
+ "updated_at": "2026-10-26T05:37:25Z",
  "builds": [
   {
    "version": "2026100500.00",
    "release": "5.3 (Build: 20261005)",
    "commit": "42622298fe06f9626d988d60b2bf589bd8f850e8",
-   "generated_at": "2026-10-19T05:33:59Z"
+   "generated_at": "2026-10-26T05:37:25Z"
   },
   {
    "version": "2026100500.01",
    "release": "5.3 (Build: 20261005)",
    "commit": "21c6f0ce5d5f3d3e3f94b845704c3062d46441cb",
-   "generated_at": "2026-10-19T05:33:59Z"
+   "generated_at": "2026-10-26T05:37:25Z"
   },
   {
    "version": "2026100500.02",
    "release": "5.3+ (Build: 20261013)",
    "commit": "344c92d5bb70f37306829d7739e2710305a39c3e",
-   "generated_at": "2026-10-19T05:33:59Z"
+   "generated_at": "2026-10-26T05:37:25Z"
+  },
+  {
+   "version": "2026100500.03",
+   "release": "5.3+ (Build: 20261013)",
+   "commit": "e1c0c4ed8f40bab0129899b3853eef50333b070d",
+   "generated_at": "2026-10-26T05:37:25Z"
+  },
+  {
+   "version": "2026100500.04",
+   "release": "5.3+ (Build: 20261013)",
+   "commit": "18a13e9d0858082afc070eb5dc8bbc6683b506fa",
+   "generated_at": "2026-10-26T05:37:25Z"
+  },
+  {
+   "version": "2026100500.05",
+   "release": "5.3+ (Build: 20261013)",
+   "commit": "c2ad37670c843c99400bd77ac24f25ca5795f2d6",
+   "generated_at": "2026-10-26T05:37:25Z"
+  },
+  {
+   "version": "2026100500.06",
+   "release": "5.3+ (Build: 20261021)",
+   "commit": "aa930e26fbdd08dd8ba70f53298838a8d306ee57",
+   "generated_at": "2026-10-26T05:37:25Z"
   }
  ]
 }
